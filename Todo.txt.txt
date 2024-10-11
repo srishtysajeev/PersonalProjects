@@ -1,0 +1,11 @@
+C project
+----------
+- You need to add more comments to make the code more readable 
+
+Astrolabs
+----------
+Modify so that it is more of an analysis pipeline maybe so it automatically detects exoplanet curves for whatever you input 
+
+Anime project
+--------------
+You can always get the previous version up and see if you can add more functionality to this 
