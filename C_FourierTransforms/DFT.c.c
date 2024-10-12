@@ -1,11 +1,14 @@
+// This script perfoms the discrete fourier transform on data that is read from the disk
+// First the transform is tested on 2 mock functions which I sample below
+// Please refer to the pdf document for the exact exercise and the mathematical forms of fuctions h1 and h2. 
+
 #include <stdio.h>
 #include <math.h>
 #define PI 3.1415926535  //defining a global variable for the value of pi
 
 //start ----------------------------------------------------------------------------------------------------------//
 
-//defining 2 functionf for h1 and h2 
-
+// function h1
 void h1(double t, double * h1_Re, double * h1_Im)  //Makes use of pointers
   {
 
@@ -15,6 +18,7 @@ void h1(double t, double * h1_Re, double * h1_Im)  //Makes use of pointers
     //printf("h1: %f + %f i\n", *h1_Re, *h1_Im);     
   }
 
+// function h2
 void h2(double t, double * h2_Re, double * h2_Im )
   {
     double part = (t - PI)*(t - PI);
@@ -216,6 +220,7 @@ void fourier_analysis ()
 
 //-----------------------------------------------------------------------------------------------------------------------------------
 
+// reading in h3
 void h3_analysis()
   {
     FILE *fp;
@@ -237,6 +242,7 @@ void h3_analysis()
 
 //------------------------------------------------------------------------------------------------
     //H3
+    // Performing the transform on H3
     printf("\n");
 
     double H1_Re, H1_Im, Real_1, Real_2, Imaginary_1, Imaginary_2; 
