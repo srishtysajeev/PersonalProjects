@@ -10,7 +10,7 @@ __This repo is to showcase various coding projects I have undertaken:__
 - Then the code is tested on more stochastic data. 
 
 ### Python - Anime API
-- Python code that connects to Jikan.moe API to suggest you a new anime to watch based on a genre of your choice (50 genres to pick from)
+- Python code that connects to Jikan.moe API to suggest you a new anime to watch based on a genre of your choice (78 genres to pick from)
 - You can then choose to add certain anime's to a wishlist.
 
 ### SQL - Database creation for an Art_selling website
