@@ -1,4 +1,4 @@
-This git hub repo is here to showcase projects I have worked on.  
+__This repo is to showcase various coding projects I have undertaken:__
 
 
 
