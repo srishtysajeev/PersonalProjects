@@ -14,9 +14,9 @@ __This repo is to showcase various coding projects I have undertaken:__
 - You can then choose to add certain anime's to a wishlist.
 
 ### SQL - Database creation for an Art_selling website
-- Created a mock database for a scenario in which 2 artists that sometimes collaborate want to sell their work
+- Created a mock database for a website in which 2 artists that sometimes collaborate want to sell their work
 - Store procedures and triggers are used to interact with the database. 
 
 ### Python - Astrolabs 
 - Performed Aperture photmetry on real stars using various python modules
-- Produced a report on which I discovered 4 exoplanets transiting a sun-like star
+- Produced a report on which I 'discovered' 4 exoplanets transiting a sun-like star and detailed the analysis undertaken
